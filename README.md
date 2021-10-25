@@ -9,3 +9,4 @@ This repository contains the solutions to the following problems.
 5. Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 6. Merge Intervals - https://leetcode.com/problems/merge-intervals/
 7. Reverse Integer - https://leetcode.com/problems/reverse-integer/
+8. 3Sum - https://leetcode.com/problems/3sum/
